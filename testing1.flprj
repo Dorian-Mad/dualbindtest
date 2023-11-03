@@ -1,32 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultProject
-  Version="1"
-  BrandingStylesheet="/Content/Resources/Branding/Branding.css"
-  MasterStylesheetOverride="True"
-  xml:lang="en-us"
-  Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project."
-  IncludePattern="*.htm;*.html"
-  AutoExcludeNonTaggedFiles="false"
-  IncludeLinkedFiles="false"
-  DeleteStale="false"
-  DeleteUnreferenced="false"
-  AutoSync="true"
-  LastImport="2023-10-24T09:11:12.1598348-05:00">
-  <Files>
-    <Url
-      Source="file:///C:/Flare/testing/testing.flprj"
-      AbsoluteSource="file:///C:/Flare/testing/testing.flprj" />
-  </Files>
-  <ExcludedFiles />
-  <CollectedSourceFiles>
-    <Url
-      Source="../testing/Content/testing.htm"
-      AbsoluteSource="file:///C:/Flare/testing/Content/testing.htm" />
-  </CollectedSourceFiles>
-  <SkippedSourceFiles />
-  <GeneratedFiles>
-    <Url
-      Source="Content/testing.htm"
-      TimeStamp="10/13/2023 1:45:10 PM" />
-  </GeneratedFiles>
+<CatapultProject Version="1" BrandingStylesheet="/Content/Resources/Branding/Branding.css" MasterStylesheetOverride="True" xml:lang="en-us" Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project." IncludePattern="*.htm;*.html" AutoExcludeNonTaggedFiles="false" IncludeLinkedFiles="false" DeleteStale="false" DeleteUnreferenced="false" AutoSync="true" LastImport="2023-10-24T09:11:12.1598348-05:00">
+    <Files>
+        <Url Source="file:///C:/Flare/testing/testing.flprj" AbsoluteSource="file:///C:/Flare/testing/testing.flprj" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles>
+        <Url Source="../testing/Content/testing.htm" AbsoluteSource="file:///C:/Flare/testing/Content/testing.htm" />
+    </CollectedSourceFiles>
+    <SkippedSourceFiles />
+    <GeneratedFiles>
+        <Url Source="Content/testing.htm" TimeStamp="10/13/2023 1:45:10 PM" />
+    </GeneratedFiles>
 </CatapultProject>
