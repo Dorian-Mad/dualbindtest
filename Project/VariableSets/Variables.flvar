@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="CompanyName">MadCap Software</Variable>
+  <Variable
+    Comment=""
+    Name="PhoneNumber">858 123 4567</Variable>
+  <Variable
+    Name="NewDateTimeVariable"
+    Comment=""
+    Type="DateTimeFileSaved"
+    LastUpdated="2023-10-19T06:44:01.9237122-05:00"
+    EvaluatedDefinition="hh:mm:ss">hh:mm:ss</Variable>
+</CatapultVariableSet>

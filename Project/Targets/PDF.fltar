@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Adobe PDF Target"
+  Type="PDF"
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/Primary.fltoc"
+  PatchHeadingLevels="false"
+  InjectBookHeadings="false"
+  MasterStylesheet="/Content/Resources/testing.css"
+  ConditionTagExpression="include[Default.PrintOnly], exclude[Default.Web]"
+  MasterPageLayout="/Content/Resources/testing.flpgl">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="false"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false"
+    OutputFormat="docx" />
+  <PDF
+    Tagged="true"
+    TitleBar="DocumentTitle" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/Destination.fldes"
+      Publish="true"
+      IsResource="false" />
+  </Destinations>
+</CatapultTarget>
